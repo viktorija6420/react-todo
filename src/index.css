@@ -1,0 +1,18 @@
+body {
+  margin-left: 10%;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: lightgray;
+}
+
+ul {
+  text-align: center;
+  background-color: green;*/
+  margin: auto;
+  padding: 5px;
+}
+
+div {
+  width: 500px;
+  margin: auto;
+}
